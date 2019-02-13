@@ -1,0 +1,1 @@
+appcmd delete app "Default Web Site/iSHaRe_App/iSHaRe_FileServices"
