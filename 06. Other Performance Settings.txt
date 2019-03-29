@@ -1,0 +1,6 @@
+1. Right Click Computer
+2. Select Properties
+3. Select Advanced system settings
+4. Click Advanced -> Performance -> Settings button
+5. Select Custom
+6. Untick all except "Smooth edges of screen fonts"
