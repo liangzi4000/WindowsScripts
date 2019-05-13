@@ -1,0 +1,1 @@
+net start MSSQLSERVER 1>>result.log 2>>&1
