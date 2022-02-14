@@ -1,0 +1,1 @@
+test-netconnection -computername 192.168.1.101 -port 1433
