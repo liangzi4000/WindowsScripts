@@ -1,0 +1,1 @@
+robocopy \\192.168.0.129\gbgw\GameFiles D:\Bruce\Others\GBGWGameFiles /FFT /E /NP /NDL /LOG:result.txt
